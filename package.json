@@ -1,0 +1,18 @@
+{
+  "name": "node-gulp-brotli",
+  "version": "1.0.0",
+  "description": "Nodejs: Optimize with Gulp and Brotli",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "Minification",
+    "Compression",
+    "Gulp",
+    "Brotli"
+  ],
+  "author": "Haseeb Anwar",
+  "license": "ISC"
+}
