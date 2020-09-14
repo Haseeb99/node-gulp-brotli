@@ -60,5 +60,6 @@ function brotliOptions() {
   };
 }
 
+// export tasks so they are available in command line
 exports.watch = watchFiles;
 exports.build = parallel(minifyAndCompressCSS, minifyAndCompressJS);
